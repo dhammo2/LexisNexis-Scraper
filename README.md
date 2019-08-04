@@ -7,6 +7,7 @@ This repository contains a python package for the automated scraping of the Lexi
 
 Why use this package/code? There are a small collection of alternative options available however these codesets are either outdated, inefficient, require the officials API access, or not suitably customisable. These reasons led to the development of this package.  
 
+Whilst our best efforts have been made to ensure that the package is robust, as with any web scraping tasks connection drop outs, delays in obtaining pages may cause issues. Likewise, if the website structure changes we endeavour to do our best to update the package as soon as an issue is raised. 
 
 > **_DISCLAIMER:_** This code was developed for academic purposes. Using this software package may be a violation of the terms of use set out by LexisNexis. By downloading and using this package you do so at your own legal risk.
 
@@ -37,14 +38,16 @@ The data can either be saved into either a mySQL database or a pandas dataframe.
 #### MySQL (Recommended)
 
 ```python
-from lnscraper import mysql_version
+from lnscraper import mysql_version, authentication
 ```
 
 #### Pandas
 
 ```python
-from lnscraper import pandas_version
+from lnscraper import pandas_version, authentication
 ```
+
+### Authentications Setup
 
 ### Search Terms and Sources
 
