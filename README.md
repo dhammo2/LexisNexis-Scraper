@@ -36,11 +36,15 @@ The data can either be saved into either a mySQL database or a pandas dataframe.
 
 #### MySQL (Recommended)
 
-``` from lnscraper import mysql_version ```
+```python
+from lnscraper import mysql_version
+```
 
 #### Pandas
 
-``` from lnscraper import pandas_version ```
+```python
+from lnscraper import pandas_version
+```
 
 ### Search Terms and Sources
 
