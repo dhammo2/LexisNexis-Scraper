@@ -5,7 +5,7 @@
 
 This repository contains a python package for the automated scraping of the Lexis Nexis web service. 
 
-Why use this package/code? There are a small collection of alternative options available however these codesets are either outdated, inefficient, or not suitably customisable. These reasons led to the development of this package.  
+Why use this package/code? There are a small collection of alternative options available however these codesets are either outdated, inefficient, require the officials API access, or not suitably customisable. These reasons led to the development of this package.  
 
 
 > **_DISCLAIMER:_** This code was developed for academic purposes. Using this software package may be a violation of the terms of use set out by LexisNexis. By downloading and using this package you do so at your own legal risk.
