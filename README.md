@@ -11,7 +11,7 @@ This repository contains a python package for the automated scraping of the Lexi
 ## Requirements
 
 - Lexis Nexis Subscription (API Access Not Required)
-- Python
+- Python 3
 
 ## Installation
 
