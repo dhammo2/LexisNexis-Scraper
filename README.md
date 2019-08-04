@@ -44,7 +44,7 @@ This bot automatically completes the authentication information for an academic 
 2. Click on the academic sign in link. 
 3. Find your institution and click “copy link”. 
 4. Copy the link within the pop-up box and paste it into the `credentials.json` file replacing changemeAuthURL.
-5, Save the file. 
+5. Save the file. 
 
 Whilst the pre-configured options will work in the majority of cases you may need to adjust the following options to ensure that the correct authentication fields are completed.
 
