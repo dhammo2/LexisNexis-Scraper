@@ -4,7 +4,7 @@ This repository contains a python package for the automated scraping of the Lexi
 
 ## Description
 
-> **_DISCLAIMER:_** Disclaimer: This code was developed for exemplar academic purposes. Using this software package may be a violation of the terms of use set out by LexisNexis. By downloading and using this package you do so at your own legal risk.
+> **_DISCLAIMER:_** This code was developed for academic purposes. Using this software package may be a violation of the terms of use set out by LexisNexis. By downloading and using this package you do so at your own legal risk.
 
 ## Requirements
 
