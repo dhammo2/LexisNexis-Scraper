@@ -32,7 +32,7 @@ Whilst our best efforts have been made to ensure that the package is robust, as 
 
 ## Usage
 
-## Authentication Setup
+### Authentication Setup
 This bot automatically completes the authentication information for an academic sign-in at regular intervals. In order to do this you need to get your institution login link.  
 
 1. Access the Nexis Service by visiting https://nexis.com
