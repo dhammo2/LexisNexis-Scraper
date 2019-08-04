@@ -32,13 +32,19 @@ Whilst our best efforts have been made to ensure that the package is robust, as 
 
 ## Usage
 
+### Credentials File
+The `credentials.json` file is a template for your specific authentication details. It is a quick and convenient way to store and utilise credentials as it can be edited in any text editor.
+1. Open the `credentials.json` file and replace changemeUsername and changemePassword with your academic login details. 
+2. Save the file. 
+
 ### Authentication Setup
 This bot automatically completes the authentication information for an academic sign-in at regular intervals. In order to do this you need to get your institution login link.  
 
 1. Access the Nexis Service by visiting https://nexis.com
 2. Click on the academic sign in link. 
 3. Find your institution and click “copy link”. 
-4. Copy the link within the pop-up box and save it for later!
+4. Copy the link within the pop-up box and paste it into the `credentials.json` file replacing changemeAuthURL.
+5, Save the file. 
 
 Whilst the pre-configured options will work in the majority of cases you may need to adjust the following options to ensure that the correct authentication fields are completed.
 
