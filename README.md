@@ -33,12 +33,14 @@ Whilst our best efforts have been made to ensure that the package is robust, as 
 ## Usage
 
 ## Authentication Setup
-This bot automatically completes the authentication information for an academic sign-in at regular intervals. Whilst the pre-configured options will work in the majority of cases you may need to adjust the following options to ensure that the correct authentication fields are completed. 
+This bot automatically completes the authentication information for an academic sign-in at regular intervals. In order to do this you need to get your institution login link.  
 
 1. Access the Nexis Service by visiting https://nexis.com
 2. Click on the academic sign in link. 
 3. Find your institution and click “copy link”. 
 4. Copy the link within the pop-up box and save it for later!
+
+Whilst the pre-configured options will work in the majority of cases you may need to adjust the following options to ensure that the correct authentication fields are completed.
 5. Click the link. 
 6. Right Click on the username field and click inspect. Repeat. 
 7. If the id=‘username’ do nothing. Else save the id value for later. 
