@@ -1,21 +1,27 @@
 # Lexis Nexis Scraper
-This repository contains a python package for the automated scraping of the Lexis Nexis web service. 
 
 
 ## Description
+
+This repository contains a python package for the automated scraping of the Lexis Nexis web service. 
+
 
 > **_DISCLAIMER:_** This code was developed for academic purposes. Using this software package may be a violation of the terms of use set out by LexisNexis. By downloading and using this package you do so at your own legal risk.
 
 ## Requirements
 
 - Lexis Nexis Subscription (API Access Not Required)
-
+- Python
 
 ## Installation
 
 ### Using PIP
 
+``` pip install ln-scraper ```
+
 ### Manual Installation
+
+## Usage
 
 ## Citing This Package
 Please accredit this package by citing the following in your references. 
