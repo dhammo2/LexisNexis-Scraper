@@ -23,6 +23,22 @@ This repository contains a python package for the automated scraping of the Lexi
 
 ## Usage
 
+### Credentials File
+
+### Storage Option
+
+The data can either be saved into either a mySQL database or a pandas dataframe. These need to be setup, as follows, before the webscraping can be initiated. 
+
+#### MySQL (Recommended)
+
+
+#### Pandas
+
+### Search Terms and Sources
+
+### Running the WebScraper
+
+
 ## Citing This Package
 Please accredit this package by citing the following in your references. 
 
