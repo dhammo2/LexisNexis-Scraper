@@ -18,6 +18,7 @@ Whilst our best efforts have been made to ensure that the package is robust, as 
 - Chrome Driver
   - Used to simulate a real web browser.
   - Available to download at: https://chromedriver.chromium.org/downloads
+- Access to MySQL Database (Optional)
 
 ## Installation
 
