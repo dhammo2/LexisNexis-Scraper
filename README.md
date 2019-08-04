@@ -14,6 +14,9 @@ Why use this package/code? There are a small collection of alternative options a
 
 - Lexis Nexis Subscription (API Access Not Required)
 - Python 3
+- Chrome Driver
+  - Used to simulate a real web browser.
+  - Available to download at: https://chromedriver.chromium.org/downloads
 
 ## Installation
 
