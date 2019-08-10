@@ -1,0 +1,7 @@
+SearchSource1
+SearchSource2
+SearchSOurce3
+Scottish Publications
+UK Broadsheets
+UK Publications
+... etcetera ... <- Remove this line
